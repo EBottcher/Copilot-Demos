@@ -1,2 +1,2 @@
-# Copilot-Demos
-Repository containing Scripts and instructions for various copilot features for demos and presentations
+# Copilot-Demos: Table of Contents
+1 -  String Array Pattern Completion
